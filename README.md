@@ -18,3 +18,11 @@ Componentes utilizados:
 - 1x LED verde
 - Botão
 - Termistor NTC 10K
+
+
+
+## Para rodar a aplicação 
+
+```npm install```
+
+```npm start```
